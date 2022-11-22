@@ -9,7 +9,7 @@
 <div align="center" style="display: inline_block"><br>
     <img alt="ícone HTML" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
     <img alt="Ícone CSS" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-    <img alt="Ícone JavaScript" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img alt="Ícone JavaScript" width="30" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 
 <div align="center"><br> 
