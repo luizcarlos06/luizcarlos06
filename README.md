@@ -13,7 +13,7 @@
 ## ⚡ Technologies 
 
 
-These are some of the technologies and tools that I work with: <br>
+These are some of the technologies and tools that I work with: <br><br>
 <div align="center" style="display: inline_block">
     <img alt="ícone HTML" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
     <img alt="Ícone CSS" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
