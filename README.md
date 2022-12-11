@@ -18,5 +18,8 @@ These are some of the technologies and tools that I work with: <br><br>
     <img alt="ícone HTML" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
     <img alt="Ícone CSS" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
     <img alt="Ícone JavaScript" width="30" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+    ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+    ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 </div>
 
