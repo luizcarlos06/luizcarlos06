@@ -20,3 +20,17 @@ These are some of the technologies and tools that I work with: <br><br>
     <img alt="Ícone JavaScript" width="30" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
+### <img width="40" src="https://media2.giphy.com/media/uhQuegHFqkVYuFMXMQ/200w.webp?cid=ecf05e47n5q5wzand2my7pyklchn2bwjeasz0n1z5dczgy3z&rid=200w.webp&ct=s">  Tecnologias e ferramentas:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,styledcomponents,nodejs,docker,postgresql,mongodb,git,github,vscode)](https://skillicons.dev)
+
+</br>
+
+
+### <img src="https://media3.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif?cid=ecf05e47s14zmq5mrgdn0t2th57qswz0m583agl792i6im9o&rid=giphy.gif&ct=s" alt="estastiscas" width="30" />  Estatísticas GitHub:
+
+<div>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=miguelfiais&theme=algolia&show_icons=true" alt="status-github"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=miguelfiais&theme=algolia&mode=weekly" alt="status-github"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelfiais&layout=compact&theme=algolia" alt="top-linguagens"/>
+</div>
