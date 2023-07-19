@@ -16,8 +16,8 @@
 ### <img src="https://media3.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif?cid=ecf05e47s14zmq5mrgdn0t2th57qswz0m583agl792i6im9o&rid=giphy.gif&ct=s" alt="estastiscas" width="30" />  Estatísticas GitHub:
 
 <div>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=luizcarlos06&theme=algolia&show_icons=true" alt="status-github"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarlos06&theme=blue-green">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=luizcarlos06&theme=algolia&show_icons=true" alt="status-github"/>
 </div>
 
 #### <img src="https://media3.giphy.com/media/lQ6CBvgBn7QEbb0Va8/giphy.gif?cid=ecf05e47lqa2ak4tkzarbuf43sd5mh69xhckynyhhoktvba8&rid=giphy.gif&ct=s" alt="contato" width="20"/> Conecte-se comigo:
