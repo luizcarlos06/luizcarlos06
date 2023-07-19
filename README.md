@@ -17,7 +17,6 @@
 
 <div>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=luizcarlos06&theme=algolia&show_icons=true" alt="status-github"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=luizcarlos06&theme=algolia&mode=weekly" alt="status-github"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarlos06&theme=blue-green">
 </div>
 
