@@ -9,7 +9,7 @@
 
 ### <img width="40" src="https://media2.giphy.com/media/uhQuegHFqkVYuFMXMQ/200w.webp?cid=ecf05e47n5q5wzand2my7pyklchn2bwjeasz0n1z5dczgy3z&rid=200w.webp&ct=s">  ⚡ Technologies :
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,styledcomponents,nodejs,docker,postgresql,mongodb,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,styledcomponents,nodejs,docker,postgresql,mongodb,git,github,vscode,figma)](https://skillicons.dev)
 
 </br>
 
