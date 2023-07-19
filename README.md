@@ -16,9 +16,10 @@
 ### <img src="https://media3.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif?cid=ecf05e47s14zmq5mrgdn0t2th57qswz0m583agl792i6im9o&rid=giphy.gif&ct=s" alt="estastiscas" width="30" />  Estatísticas GitHub:
 
 <div>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=miguelfiais&theme=algolia&show_icons=true" alt="status-github"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=miguelfiais&theme=algolia&mode=weekly" alt="status-github"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelfiais&layout=compact&theme=algolia" alt="top-linguagens"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=luizcarlos06&theme=algolia&show_icons=true" alt="status-github"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=luizcarlos06&theme=algolia&mode=weekly" alt="status-github"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarlos06&layout=compact&theme=algolia" alt="top-linguagens"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarlos06&theme=blue-green">
 </div>
 
 #### <img src="https://media3.giphy.com/media/lQ6CBvgBn7QEbb0Va8/giphy.gif?cid=ecf05e47lqa2ak4tkzarbuf43sd5mh69xhckynyhhoktvba8&rid=giphy.gif&ct=s" alt="contato" width="20"/> Conecte-se comigo:
